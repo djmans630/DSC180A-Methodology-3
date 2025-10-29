@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
-Daniel Mansperger
-dmansperger@ucsd.edu
+Daniel Mansperger and Andrew Li
+
